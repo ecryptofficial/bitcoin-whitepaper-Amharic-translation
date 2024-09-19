@@ -3,3 +3,7 @@ In this project, i've translated Satoshi Nakamoto’s original Bitcoin whitepape
 
 To enhance understanding, i’ve taken an extra step: adding translated words at the end of page. These annotations provide context for critical English terms used in the whitepaper.
 For instance, when Nakamoto discusses “proof of work,” i’ve included equivalent Translated word [ የጥረት ማረጋገጫ / ጥረት ላይ የተመሰረተ ማረጋገጫ ] . This way, readers grasp both the concept and its linguistic nuances.
+
+
+
+This Document first released for the public on august 19,2024
