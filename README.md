@@ -29,6 +29,6 @@ Key Features of This Translation
 
 [ ] Share : If you find this translation valuable, share it with your friends, fellow developers, and anyone interested in Bitcoin.
 
-[ ] Contribute : wish to contribute translation in other Ethiopian Languages (e.g.. Afaan Oromoo, Tigriny), please open an issue or submit a pull request 
+[ ] Contribute : wish to contribute translation in other Ethiopian Languages (e.g.. Afaan Oromoo, Tigrigna), please open an issue or submit a pull request 
 
                        This Document first released for the public on august 19,2024
