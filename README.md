@@ -25,11 +25,11 @@ Key Features of This Translation
 
 
  >>
-[] Read the Whitepaper : Dive into the translated whitepaper. Understand the principles behind Bitcoin and its decentralized nature.
+[ ] Read the Whitepaper : Dive into the translated whitepaper. Understand the principles behind Bitcoin and its decentralized nature.
 
-[] Share : If you find this translation valuable, share it with your friends, fellow developers, and anyone interested in Bitcoin.
+[ ] Share : If you find this translation valuable, share it with your friends, fellow developers, and anyone interested in Bitcoin.
 
-[] Contribute : Feel free to open an issue or contribute other Ethiopian Spoken languages directly to this repository.
+[ ] Contribute : Feel free to open an issue or contribute other Ethiopian Spoken languages directly to this repository.
 
 
 
